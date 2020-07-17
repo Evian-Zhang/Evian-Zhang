@@ -7,7 +7,7 @@
 		<tr>
 			<td>知乎：<a href="https://www.zhihu.com/people/Evian_Zhang">勥巭炛</a></td>
 			<td>CSDN：<a href="https://blog.csdn.net/EvianZhang">EvianZhang</a></td>
-			<td>常用邮箱：<a href="mailto://evianzhang1999@163.com">evianzhang1999@163.com</a></td>
+			<td>常用邮箱：<a href="mailto:evianzhang1999@163.com">evianzhang1999@163.com</a></td>
 		</tr>
 	</tbody>
 </table>
