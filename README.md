@@ -48,6 +48,12 @@
 </details>
 
 <details>
+<summary>LLVM</summary>
+
+* [llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial)
+</details>
+
+<details>
 <summary>TypeScript</summary>
 
 * [evian-blog](https://github.com/Evian-Zhang/evian-blog)
