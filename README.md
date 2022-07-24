@@ -1,11 +1,13 @@
 # Evian-Zhang
 
+中国科学院软件研究所（Institute of Software Chinese Academy of Sciences）博士研究生在读。
+
 ## 社交账号
 
 <table>
 	<tbody>
 		<tr>
-			<td>知乎：<a href="https://www.zhihu.com/people/Evian_Zhang">勥巭炛</a></td>
+			<td>知乎：<a href="https://www.zhihu.com/people/Evian_Zhang">Evian张</a></td>
 			<td>CSDN：<a href="https://blog.csdn.net/EvianZhang">EvianZhang</a></td>
 			<td>常用邮箱：<a href="mailto:evianzhang1999@163.com">evianzhang1999@163.com</a></td>
 		</tr>
