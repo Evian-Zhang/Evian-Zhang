@@ -2,6 +2,26 @@
 
 中国科学院软件研究所（Institute of Software Chinese Academy of Sciences）博士研究生在读。
 
+# (2026/10) 我目前正在求职，欢迎联系！
+
+我是2027届应届博士毕业生，主要研究方向是软件安全，Rust语言安全。我有七年的资深Rust开发经验，我非常熟悉网络服务程序的开发与安全性分析。我有丰富的Agent设计经验。可以看我的crates.io：[Evian-Zhang](https://crates.io/users/Evian-Zhang?sort=downloads)。我的[中文版简历](https://github.com/Evian-Zhang/Evian-Zhang/tree/master/简历.pdf)，[English version resume](https://github.com/Evian-Zhang/Evian-Zhang/tree/master/resume.pdf)。
+
+我期望base地在上海及其周边，或remote岗位（任何时区皆可）。我期望的工作是与Rust相关的开发或安全岗位，最好可以参与相关开源社区维护。我没有模型训练、区块链、Web3相关经验，我也不期望相关的工作。我需要我的工作是WLB的。
+
+如果我有机会进行面试，我希望咱们多谈论一些实际问题的解决（我很有经验），而不在leetcode等算法问题上。
+
+我的邮箱是[evianzhang1999@163.com](mailto:evianzhang1999@163.com)。
+
+# (2026/10) I AM LOOKING FOR A JOB, FEEL FREE TO CONTACT ME!
+
+I will graduate at 2027 with PhD degree in cybersecurity. I am interested in software security and Rust security. I have over 7 years of Rust experience, and I am proficient in the development and security analysis of network/server applications. I have experience in the agent design. My crates.io: [Evian-Zhang](https://crates.io/users/Evian-Zhang?sort=downloads). My [English version resume](https://github.com/Evian-Zhang/Evian-Zhang/tree/master/resume.pdf).
+
+I want to work in ShangHai or nearby, or remotely with any timezone. I want to work on the development or security with products written in Rust language, and it would be better if I could participate in or maintain the opensource community. I have no experience and am not interested in model training, blockchain, or Web3. I need my job to be work-life-balance.
+
+If it works out to give me a chance of an interview, I wish we can talk more about solving realistic problems (I am very experienced), rather than leetcode-like algorithm exams.
+
+My e-mail is [evianzhang1999@163.com](mailto:evianzhang1999@163.com) (or [evianzhang1999@gmail.com](mailto:evianzhang1999@gmail.com) if you prefer a global e-mail provider).
+
 ## 社交账号
 
 知乎：[Evian张](https://www.zhihu.com/people/Evian_Zhang) | CSDN：[EvianZhang](https://blog.csdn.net/EvianZhang) | 常用邮箱：[evianzhang1999@163.com](mailto:evianzhang1999@163.com)
